@@ -7,27 +7,18 @@ body{
     max-height: 100%;
     background-repeat: no repeat;
 }
-/*
- * Contact
- */
 
-
-/* Home */
 .btn-secondary,
 .btn-secondary:hover,
 .btn-secondary:focus {
-  color: #333;
-  text-shadow: none; /* Prevent inheritance from `body` */
+  color: rgb(180, 15, 117);
+  text-shadow: none; 
 }
 
 
-/*
- * Features
- */
-
 body {
-  text-shadow: 0 .05rem .1rem rgba(0, 0, 0, .5);
-  box-shadow: inset 0 0 5rem rgba(0, 0, 0, .5);
+  text-shadow: 0 .05rem .1rem rgba(102, 5, 78, 0.5);
+  box-shadow: inset 0 0 5rem rgba(163, 4, 123, 0.5);
 }
 
 .cover-container {
