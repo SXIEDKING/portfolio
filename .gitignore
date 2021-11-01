@@ -1,0 +1,5 @@
+mypassword.txt
+*.obj
+*.exe
+/data
+config.json
